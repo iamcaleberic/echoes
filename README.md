@@ -5,6 +5,7 @@ Electron - React App
 - Electron
 - Node
 - Yarn
+- Foreman
 
 ### Running
 - Change directory into `app` directory
